@@ -52,4 +52,3 @@ public class PlayerMovement : MonoBehaviour {
         anim.SetBool("IsWalking", walking);
     }		
 }
-s
